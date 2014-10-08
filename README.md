@@ -1,4 +1,6 @@
 org
 ===
+#### An organizational repo for the Moore-Sloan Data Science Environment
 
-Getting folks organized on github with MSDSE
+
+We're trying to getting folks organized on github for the Moore-Sloan initiative. Currently, there is some useful information in the [issue tracker](https://github.com/msdse/org/issues), and the [wiki](https://github.com/msdse/org/wiki). (Note that both of those are available as tabs on the right.)
