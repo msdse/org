@@ -1,5 +1,5 @@
-org
-===
+msdse/org
+=========
 #### An organizational repo for the Moore-Sloan Data Science Environment
 
 
